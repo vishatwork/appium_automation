@@ -1,0 +1,18 @@
+# Ignore node_modules folder
+node_modules/
+# Maven/Gradle directories
+target/
+build/
+# Eclipse specific files
+*.classpath
+*.project
+*.settings/
+# Cucumber HTML reports
+*.html
+# Screenshots from failed tests
+screenshots/
+# TestNG Results
+test-output/
+.DS_Store
+logs/
+reports/

@@ -1,0 +1,18 @@
+# Eclipse specific files
+*.classpath
+*.project
+*.settings/
+# Cucumber JSON reports
+*.json
+# Cucumber HTML reports
+*.html
+# Screenshots from failed tests
+screenshots/
+test-output/
+target/
+# Ignore node_modules folder
+node_modules/
+# Ignore test reports and logs
+*.log
+reports/
+.DS_Store
