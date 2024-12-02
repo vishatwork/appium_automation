@@ -16,3 +16,4 @@ test-output/
 .DS_Store
 logs/
 reports/
+.gitignore.save
